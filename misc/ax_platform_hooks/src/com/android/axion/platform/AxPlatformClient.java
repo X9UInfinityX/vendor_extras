@@ -71,6 +71,7 @@ public class AxPlatformClient {
     public static final String FEATURE_DREAM = "dream";
     public static final String FEATURE_READING_MODE = "reading_mode";
     public static final String FEATURE_POWER_SHARE = "power_share";
+    public static final String FEATURE_BYPASS_CHARGING = "bypass_charging";
     public static final String FEATURE_CAFFEINE = "caffeine";
     public static final String FEATURE_VPN = "vpn";
     public static final String FEATURE_CAST = "cast";
